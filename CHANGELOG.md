@@ -44,11 +44,36 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 - Aggiunta: "casi_testati", totale dei soggetti sottoposti al test dal 19/04/2020
 
+## 2020-04-21
+
+- Aggiunta: nuovo shape file con misure di contenimento a livello subregionale (province, comuni e frazioni) con rlativi metadata.
+
+## 2020-04-22
+
+- Aggiunta: nuovo dataset contratti dpc forniture (contratti e pagamenti) in formato csv e json.  [link alla dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzA1YmQ0NDctYzY3ZC00ZTlkLWI1MTQtMThmNTEwNWY3NjM4IiwidCI6IjlhMDZhOTA3LTA2OTUtNDA0YS05NmY4LTRhMWU5YTJmYjQxZCIsImMiOjl9) - [link al dataset ](https://github.com/pcm-dpc/COVID-19/tree/master/dati-contratti-dpc-forniture)
+
+## 2020-04-23
+
+- Aggiunta: metadati del nuovo dataset contratti dpc forniture (contratti e pagamenti) in formato DCAT-AP-IT
+- Integrato README con specifiche per il data model dei dataset aree (nazionali e subregionali)
+
+## 2020-04-27
+
+- Aggiunta: aggiornamento al 26/4/2020 shape file e relativi metadata con misure di contenimento a livello subregionale (province, comuni e frazioni).
+
+## 2020-05-04
+
+- Aggiunta: aggiornamento al 4/5/2020 shape file e relativi metadati con misure di contenimento a livello nazionale a seguito del DPCM 26/4/2020.
+
+## 2020-05-05
+
+- API Rest (Json) private beta
+- GraphQL private beta
+
+## 2020-05-06
+
+- Aggiunta: aggiornamento al 03/05/2020 shape file e relativi metadata con misure di contenimento a livello subregionale (province, comuni e frazioni).
+
 ## Prossimi aggiornamenti
-
-- API Rest (Json)
-- GraphQL
-
-## Ipotesi modifiche
 
 - Cambio codice_regione P.A. Bolzano e P.A. Trento: da 04 a 21 per P.A. Bolzano e da 04 a 22 per P.A. Trento (codice provincia)
